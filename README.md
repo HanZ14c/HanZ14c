@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Han. 👋
+
+[<img src="./assets/linkedin.png" height="30" title="Linkedin Profile" />](https://www.linkedin.com/in/hanz14c/)
+&ThinSpace;
 
 <!--
 **HanZ14c/HanZ14c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
